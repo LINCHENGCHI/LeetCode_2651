@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\LeetCode2651\bin\Debug\netcoreapp3.1\LeetCode2651.exe
+C:\Users\Administrator\Desktop\LeetCode2651\bin\Debug\netcoreapp3.1\LeetCode2651.deps.json
+C:\Users\Administrator\Desktop\LeetCode2651\bin\Debug\netcoreapp3.1\LeetCode2651.runtimeconfig.json
+C:\Users\Administrator\Desktop\LeetCode2651\bin\Debug\netcoreapp3.1\LeetCode2651.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\LeetCode2651\bin\Debug\netcoreapp3.1\LeetCode2651.dll
+C:\Users\Administrator\Desktop\LeetCode2651\bin\Debug\netcoreapp3.1\LeetCode2651.pdb
+C:\Users\Administrator\Desktop\LeetCode2651\obj\Debug\netcoreapp3.1\LeetCode2651.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\LeetCode2651\obj\Debug\netcoreapp3.1\LeetCode2651.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LeetCode2651\obj\Debug\netcoreapp3.1\LeetCode2651.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LeetCode2651\obj\Debug\netcoreapp3.1\LeetCode2651.dll
+C:\Users\Administrator\Desktop\LeetCode2651\obj\Debug\netcoreapp3.1\LeetCode2651.pdb
